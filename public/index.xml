@@ -21,5 +21,19 @@
       <guid>http://localhost:1313/impressum/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dirk Siemers&lt;br&gt;&#xA;Neuenmarhorster Str. 10&lt;br&gt;&#xA;27239 Twistringen&lt;/p&gt;&#xA;&lt;p&gt;Telefon: 04243 95527&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:dirk.siemers@gmail.com&#34;&gt;dirk.siemers@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vertretungsberechtigt: Dirk Siemers&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Haftungsausschluss&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehme ich jedoch keine Gewähr.&lt;/p&gt;&#xA;&lt;p&gt;Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Verein</title>
+      <link>http://localhost:1313/verein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/verein/</guid>
+      <description>&lt;p&gt;Hier stellen wir unseren Verein vor:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vorstand</title>
+      <link>http://localhost:1313/vorstand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vorstand/</guid>
+      <description>&lt;p&gt;Hier stellen wir unseren Vorstand vor:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

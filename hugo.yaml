@@ -1,4 +1,4 @@
-baseURL: https://dirksiemers.github.io/dgh-verein-website
+baseURL: https://dirksiemers.github.io/dgh-verein-website/
 languageCode: de-DE
 title: Dorfgemeinschaft Marhorst
 
@@ -57,9 +57,9 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Verein
-    url: /
+    url: /verein
   - title: Vorstand
-    url: /
+    url: /vorstand
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
@@ -189,12 +189,12 @@ params:
     bulmalogo: true
     quicklinks:
       column1:
-        title: "Verein"
+        title: "Über uns"
         links:
-        - text: Über uns
-          link: /
+        - text: Verein
+          link: /verein
         - text: Vorstand
-          link: /
+          link: /vorstand
         # - text: Compare features
         #   link: /
         # - text: Our roadmap

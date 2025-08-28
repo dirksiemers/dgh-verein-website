@@ -7,5 +7,9 @@
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/impressum/</loc>
+  </url><url>
+    <loc>http://localhost:1313/verein/</loc>
+  </url><url>
+    <loc>http://localhost:1313/vorstand/</loc>
   </url>
 </urlset>
