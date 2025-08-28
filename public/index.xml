@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Fresh Theme</title>
+    <title>Dorfgemeinschaft Marhorst</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Hugo Fresh Theme</description>
+    <description>Recent content on Dorfgemeinschaft Marhorst</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>de-DE</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:1313/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/datenschutz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Datenschutzerklärung&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Der Schutz Ihrer persönlichen Daten ist mir wichtig. Diese Website kann in der Regel ohne Angabe personenbezogener Daten genutzt werden.&lt;/p&gt;&#xA;&lt;h3 id=&#34;verantwortlich&#34;&gt;Verantwortlich&lt;/h3&gt;&#xA;&lt;p&gt;Dirk Siemers&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:dirk.siemers@gmail.com&#34;&gt;dirk.siemers@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;erhebung-und-verarbeitung-von-daten&#34;&gt;Erhebung und Verarbeitung von Daten&lt;/h3&gt;&#xA;&lt;p&gt;Beim Besuch dieser Website werden keine personenbezogenen Daten erhoben, gespeichert oder verarbeitet. Es werden insbesondere keine Cookies gesetzt, keine Tracking-Dienste genutzt und keine externen Inhalte von Drittanbietern eingebunden.&lt;/p&gt;&#xA;&lt;h3 id=&#34;rechte-der-betroffenen&#34;&gt;Rechte der Betroffenen&lt;/h3&gt;&#xA;&lt;p&gt;Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Bitte wenden Sie sich dazu an die oben genannte Kontaktadresse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dirk Siemers&lt;br&gt;&#xA;Neuenmarhorster Str. 10&lt;br&gt;&#xA;27239 Twistringen&lt;/p&gt;&#xA;&lt;p&gt;Telefon: 04243 95527&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:dirk.siemers@gmail.com&#34;&gt;dirk.siemers@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vertretungsberechtigt: Dirk Siemers&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Haftungsausschluss&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehme ich jedoch keine Gewähr.&lt;/p&gt;&#xA;&lt;p&gt;Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
